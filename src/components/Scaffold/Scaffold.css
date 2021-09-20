@@ -1,0 +1,12 @@
+
+.layout-basic-header{
+  z-index: 2;
+  position: sticky;
+  top: 0;
+  background-color:  var(--light-gray);
+}
+
+.layout-basic-content {
+  height: fit-content;
+  padding-top: 70px;
+}

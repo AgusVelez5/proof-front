@@ -1,0 +1,13 @@
+nav {
+  height: 65px;
+  width: 100%;
+  background: rgb(240,240,240);
+  display: flex;
+  flex: row;
+  align-items: center;
+  box-shadow: none;
+}
+
+.menu-logo {
+  width: 50px !important;
+}
