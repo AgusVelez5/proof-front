@@ -6,10 +6,8 @@ import {
 } from "@material-ui/core";
 import Scaffold from "../../components/Scaffold/Scaffold";
 import "./MetricsPage.css";
-import { useHistory } from "react-router-dom";
 
 function MetricsPage() {
-  const history = useHistory()
 
 
   return (

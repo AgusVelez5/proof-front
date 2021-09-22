@@ -5,10 +5,8 @@ import {
 } from "@material-ui/core";
 import Scaffold from "../../components/Scaffold/Scaffold";
 import "./HelpPage.css";
-import { useHistory } from "react-router-dom";
 
 function HelpPage() {
-  const history = useHistory()
 
 
   return (

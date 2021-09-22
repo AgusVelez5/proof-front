@@ -5,10 +5,8 @@ import {
 } from "@material-ui/core";
 import Scaffold from "../../components/Scaffold/Scaffold";
 import "./AdvancePage.css";
-import { useHistory } from "react-router-dom";
 
 function AdvancePage() {
-  const history = useHistory()
 
 
   return (
