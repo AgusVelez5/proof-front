@@ -1,22 +1,28 @@
-import React from 'react';
+import React from "react";
 import Navbar from '../Navbar/Navbar';
 import { Grid } from "@material-ui/core";
 import './Scaffold.css';
 
 interface ScaffoldProps {
-    className?: string,
-    children: React.ReactNode
+  children: React.ReactNode
 }
 
-export default function Scaffold({ className, children }: ScaffoldProps){
-    return (
-        <>
-            <div className="layout-basic-header">
-                <Navbar />
-            </div>
-            <Grid className={`layout-basic-content ${className}`} container justify="center">
-                {children}
-            </Grid>
-        </>
-    );
+const Scaffold = ({ children }: ScaffoldProps) => {
+
+  return (
+    <>
+      <Grid container item xs={12} justifyContent="center">
+        <Grid container className="layout-basic-header" justifyContent="center">
+          <Navbar />
+        </Grid>
+      </Grid>
+      <Grid container item xs={12} justifyContent="center" style={{ marginBottom: '25px'}}>
+        <Grid container item xs={12} lg={10} xl={8} className="layout-basic-content" justifyContent="center">
+          {children}
+        </Grid>
+      </Grid>
+    </>
+  );
 }
+
+export default Scaffold;

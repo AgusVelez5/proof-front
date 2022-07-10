@@ -3,10 +3,11 @@
   z-index: 2;
   position: sticky;
   top: 0;
-  background-color:  var(--light-gray);
 }
 
 .layout-basic-content {
   height: fit-content;
-  padding-top: 70px;
+  padding-top: 30px;
+  padding-left: 2%;
+  padding-right: 2%;
 }

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Grupo_49"
+   data-name="Grupo 49"
+   width="13.882"
+   height="14"
+   viewBox="0 0 13.882 14"
+   version="1.1"
+   sodipodi:docname="download.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata91">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs89" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1379"
+     id="namedview87"
+     showgrid="false"
+     inkscape:zoom="83.428571"
+     inkscape:cx="6.941"
+     inkscape:cy="7"
+     inkscape:window-x="1600"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Grupo_49" />
+  <path
+     id="Trazado_65"
+     data-name="Trazado 65"
+     d="M21.426,12.219H21.4a.929.929,0,0,1-.664-.307L15.961,6.591a.926.926,0,0,1,.689-1.544h1.717a.254.254,0,0,0,.15-.041V1.189A.993.993,0,0,1,19.583.263h3.945a.993.993,0,0,1,1.066.926V5.005a.254.254,0,0,0,.15.041h2a.926.926,0,0,1,.655,1.58l-5.321,5.321A.93.93,0,0,1,21.426,12.219Zm.331-.595ZM16.65,5.963a.014.014,0,0,0-.01.012L21.42,11.3a.01.01,0,0,0,.014,0h0l5.321-5.321a.014.014,0,0,0,0-.017H24.744a.993.993,0,0,1-1.066-.926V1.221a.253.253,0,0,0-.15-.041H19.583a.253.253,0,0,0-.15.041V5.037a.993.993,0,0,1-1.066.926Z"
+     transform="translate(-14.828 -0.263)"
+     fill="#c3c3c3"
+     style="fill:#ffffff" />
+  <path
+     id="Trazado_66"
+     data-name="Trazado 66"
+     d="M3.039,183.288v.284A.441.441,0,0,0,3.5,184H16.464a.441.441,0,0,0,.457-.423v-.284a.441.441,0,0,0-.457-.423H3.5A.441.441,0,0,0,3.039,183.288Z"
+     transform="translate(-3.039 -169.995)"
+     fill="#c3c3c3"
+     style="fill:#ffffff" />
+</svg>

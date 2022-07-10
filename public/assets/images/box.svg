@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="352.094" height="236.961" viewBox="0 0 352.094 236.961">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.804" y1="1.303" x2="0.427" y2="0.295" gradientUnits="objectBoundingBox">
+      <stop offset="0.137" stop-color="#d0d0d0"/>
+      <stop offset="0.182" stop-color="#cecece"/>
+      <stop offset="0.496" stop-color="#cacaca"/>
+      <stop offset="0.543" stop-color="#c8c8c8"/>
+      <stop offset="1" stop-color="#bebebe"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.095" stop-color="#bfbfbf"/>
+      <stop offset="0.559" stop-color="#b2b2b2"/>
+      <stop offset="0.877" stop-color="#a7a7a7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.503" y1="1.042" x2="0.498" y2="0.212" gradientUnits="objectBoundingBox">
+      <stop offset="0.252" stop-color="#bebebe"/>
+      <stop offset="0.543" stop-color="#bababa"/>
+      <stop offset="0.782" stop-color="#b0b0b0"/>
+      <stop offset="0.918" stop-color="#a7a7a7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" y1="-0.072" x2="0.5" y2="1.243" gradientUnits="objectBoundingBox">
+      <stop offset="0.151" stop-color="#d0d0d0"/>
+      <stop offset="0.712" stop-color="#cacaca"/>
+      <stop offset="0.883" stop-color="#c5c5c5"/>
+      <stop offset="1" stop-color="#bebebe"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.411" y1="0.414" x2="1.024" y2="1.007" gradientUnits="objectBoundingBox">
+      <stop offset="0.095" stop-color="#bfbfbf"/>
+      <stop offset="0.503" stop-color="#b7b7b7"/>
+      <stop offset="1" stop-color="#a7a7a7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.5" y1="-0.117" x2="0.5" y2="1.235" gradientUnits="objectBoundingBox">
+      <stop offset="0.095" stop-color="#bfbfbf"/>
+      <stop offset="0.357" stop-color="#b6b6b6"/>
+      <stop offset="0.65" stop-color="#a7a7a7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0.266" y1="0.234" x2="0.881" y2="0.761" gradientUnits="objectBoundingBox">
+      <stop offset="0.137" stop-color="#d0d0d0"/>
+      <stop offset="0.195" stop-color="#cecece"/>
+      <stop offset="0.599" stop-color="#cacaca"/>
+      <stop offset="0.637" stop-color="#c8c8c8"/>
+      <stop offset="1" stop-color="#bebebe"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0.64" y1="0.417" x2="-0.237" y2="0.937" gradientUnits="objectBoundingBox">
+      <stop offset="0.151" stop-color="#cacaca"/>
+      <stop offset="0.712" stop-color="#bebebe"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="0.033" y1="0.459" x2="0.849" y2="0.53" gradientUnits="objectBoundingBox">
+      <stop offset="0.252" stop-color="#d0d0d0"/>
+      <stop offset="0.287" stop-color="#cecece"/>
+      <stop offset="0.534" stop-color="#cacaca"/>
+      <stop offset="1" stop-color="#bebebe"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="0.494" y1="-0.239" x2="0.501" y2="1.291" gradientUnits="objectBoundingBox">
+      <stop offset="0.337" stop-color="#d0d0d0"/>
+      <stop offset="0.81" stop-color="#cacaca"/>
+      <stop offset="0.922" stop-color="#c5c5c5"/>
+      <stop offset="1" stop-color="#bebebe"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_40" data-name="Grupo 40" transform="translate(-1056.09 -805.856)">
+    <path id="Trazado_50" data-name="Trazado 50" d="M1245.663,868.738,1314.6,889.82l.221-.477-67.178-20.694Z" transform="translate(93.361 30.925)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_51" data-name="Trazado 51" d="M1117.718,889.02l-61.628-41.844.119-.818,102.4-17.975Z" transform="translate(0 11.094)" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectángulo_91" data-name="Rectángulo 91" width="223.334" height="143.154" transform="translate(1117.724 899.663)" fill="url(#linear-gradient-3)"/>
+    <rect id="Rectángulo_92" data-name="Rectángulo 92" width="223.334" height="20.962" transform="translate(1117.724 943.045)" fill="#a8a8a8" opacity="0.48"/>
+    <path id="Trazado_52" data-name="Trazado 52" d="M1328.372,868.709H1105.038L1081.851,928.9H1347.9Z" transform="translate(12.687 30.954)" fill="url(#linear-gradient-4)"/>
+    <g id="Grupo_38" data-name="Grupo 38" transform="translate(1117.724 839.477)">
+      <rect id="Rectángulo_93" data-name="Rectángulo 93" width="144.01" height="60.186" transform="translate(40.883)" fill="#fff"/>
+      <path id="Trazado_53" data-name="Trazado 53" d="M1097.387,888.569h40.883V828.383Z" transform="translate(-1097.387 -828.383)" fill="url(#linear-gradient-5)"/>
+      <path id="Trazado_54" data-name="Trazado 54" d="M1221.269,828.383v60.186h38.441Z" transform="translate(-1036.376 -828.383)" fill="#fff"/>
+    </g>
+    <g id="Grupo_39" data-name="Grupo 39" transform="translate(1056.09 809.109)">
+      <rect id="Rectángulo_94" data-name="Rectángulo 94" width="144.01" height="60.186" transform="translate(102.517 30.368)" fill="url(#linear-gradient-6)"/>
+      <path id="Trazado_55" data-name="Trazado 55" d="M1117.838,898.423,1056.09,856.3l61.635-48.262,40.883,30.368Z" transform="translate(-1056.09 -808.036)" fill="url(#linear-gradient-7)"/>
+      <path id="Trazado_56" data-name="Trazado 56" d="M1221.269,828.383v60.186h38.441Z" transform="translate(-974.742 -798.015)" fill="url(#linear-gradient-8)"/>
+    </g>
+    <path id="Trazado_57" data-name="Trazado 57" d="M1221.269,828.383l52.479,18.435,53.088,62.354-67.178-20.694Z" transform="translate(81.348 11.094)" fill="url(#linear-gradient-9)"/>
+    <path id="Trazado_58" data-name="Trazado 58" d="M1124.779,839.477l8.543-33.621H1257.8l10.986,33.621Z" transform="translate(33.828 0)" fill="url(#linear-gradient-10)"/>
+  </g>
+</svg>
